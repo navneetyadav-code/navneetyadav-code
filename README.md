@@ -1,7 +1,7 @@
 <h1 align="center">Navneet Kumar Yadav</h1>
 
 <p align="center">
-  Learning web developer building PHP/MySQL projects, secure admin systems, dashboards, and practical web tools.
+  Learning developer building Android apps, PHP/MySQL tools, secure admin systems, dashboards, and practical products.
 </p>
 
 <p align="center">
@@ -18,25 +18,41 @@
 
 ## About
 
-I enjoy building real projects while learning the craft of web development. My current focus is clean PHP applications, MySQL-backed dashboards, authentication flows, student/admin tools, and simple user experiences that are easy to understand and maintain.
+I enjoy building real projects while learning the craft of software development. My current focus is Android app development, privacy-focused file tools, clean PHP applications, MySQL-backed dashboards, authentication flows, and simple user experiences that are easy to understand and maintain.
 
 ## Current Focus
 
-- PHP and MySQL application development.
-- Secure login systems, sessions, CSRF protection, OTP, and audit logs.
-- Admin dashboards and education-management tools.
-- Cleaner documentation, GitHub Actions, and open-source project presentation.
-- Better UI details with HTML, CSS, and JavaScript.
+- Android apps with Kotlin, Jetpack Compose, Gradle, and local-first product flows.
+- Privacy-focused storage, encrypted file handling, and practical mobile utilities.
+- PHP and MySQL application development for dashboards, APIs, and admin tools.
+- Secure login systems, sessions, CSRF protection, OTP, throttling, and audit logs.
+- Cleaner documentation, GitHub Actions, release notes, and open-source project presentation.
 
-## Featured Project
+## Featured Projects
+
+### [TeleNav](https://github.com/navneetyadav-code/TeleNav)
+
+A native Android app for using a personal Telegram account as encrypted cloud storage. It focuses on local encryption, vault unlock flows, recovery support, Telegram upload/download wiring, gallery previews, and a clean mobile-first experience.
+
+### [TeleNav Android Cloud Drive](https://github.com/navneetyadav-code/telenav-android-cloud-drive)
+
+The public TeleNav project site and APK distribution repository, with product copy, screenshots, download links, roadmap notes, and privacy-focused documentation.
 
 ### [SecureAuth Admin](https://github.com/navneetyadav-code/secureauth-admin)
 
 A lightweight PHP/MySQL admin authentication gateway with secure sessions, CSRF protection, OTP, login throttling, audit logs, release notes, security documentation, and GitHub-ready community files.
 
+### [Free QR Code Generator API](https://github.com/navneetyadav-code/free-qr-code-generator-api-php-mysql)
+
+A self-hosted PHP/MySQL QR code manager and API with static and dynamic QR codes, scan analytics, protected links, export options, API keys, and an admin dashboard.
+
 ## Tech Stack
 
 <p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=111">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285f4?style=flat-square&logo=jetpackcompose&logoColor=white">
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111">
@@ -57,6 +73,7 @@ A lightweight PHP/MySQL admin authentication gateway with secure sessions, CSRF 
 ## Connect
 
 - Portfolio: [navneetyadav.me](https://navneetyadav.me)
+- TeleNav site: [telenav.pages.dev](https://telenav.pages.dev)
 - Project site: [navneetyadav.rf.gd](https://navneetyadav.rf.gd)
 - YouTube: [@navneetyadavdev](https://www.youtube.com/@navneetyadavdev)
 

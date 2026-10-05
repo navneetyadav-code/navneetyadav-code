@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hey, I'm Navneet 👋
+# Hi, I'm Navneet Kumar Yadav
 
-**B.Tech CSE student · Web & Python developer · Building real things since semester 1**
+**B.Tech CSE student learning Python, web development, and practical software building.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneetyadavme/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://navneetyadav.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](http://navneetyadav.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navneetyadav-code)
 
 </div>
@@ -14,22 +14,22 @@
 
 ## About Me
 
-I'm a first-year Computer Science student at **B.Tech CSE** who doesn't wait for assignments to start building. Since joining college, I've shipped a live coaching website, built an AI-powered chatbot with a full admin dashboard, and competed in two college hackathons — all while learning Python on the side.
+I am a first-year B.Tech CSE student focused on learning by building real projects.
 
-My work lives at the intersection of **practical problem-solving and clean code**. I care about things that actually work — apps that real people can open in a browser and use.
+My current focus is Python, Flask, APIs, databases, and AI integrations. I also build PHP/MySQL and frontend projects using HTML, CSS, and JavaScript.
 
-- 🎓 **B.Tech CSE, 1st Year (Sem 1)**
-- 🔭 Currently deep-diving into **Python** (Flask, APIs, AI/RAG pipelines)
-- 🌐 2 hackathons completed, 1 live client website deployed
-- 🤝 Open to collaborating on web projects, student tools, and open-source work
-- 🏏 Cricket fan when I'm not shipping code
-- 📞 Reach me: [9507286092](tel:+919507286092)
+I am open to beginner-friendly internships, hackathons, open-source contributions, and collaboration on useful education, student, and small-business tools.
+
+- Currently learning: **Python, Flask, REST APIs, databases, and AI integrations**
+- Comfortable with: **PHP, MySQL, HTML, CSS, JavaScript, Git, GitHub**
+- Tools I use: **VS Code, Apache, phpMyAdmin, GitHub Pages, PythonAnywhere, InfinityFree**
+- Interests: **education tech, web tools, admin dashboards, automation, and practical AI apps**
 
 ---
 
 ## Tech Stack
 
-**Languages & Markup**
+**Languages & Web**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -37,7 +37,7 @@ My work lives at the intersection of **practical problem-solving and clean code*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
+**Backend & Database**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -49,57 +49,83 @@ My work lives at the intersection of **practical problem-solving and clean code*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1A5276?style=flat-square&logo=python&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-4CAF50?style=flat-square&logo=server&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🤖 [EduAssist-AI](https://github.com/navneetyadav-code/EduAssist-AI) — AI Chatbot for Educational Institutes
+### [EduAssist-AI](https://github.com/navneetyadav-code/EduAssist-AI)
 
-> A production-grade AI chatbot platform built for coaching centers and educational institutes. Not a basic chatbot demo — it has a real admin dashboard, RAG, and concurrent database support.
+Educational chatbot project for coaching institutes, built with a Flask backend, static frontend, admin dashboard, SQLite database, and Groq AI integration.
 
-**What makes it actually interesting:**
-- **RAG (Retrieval-Augmented Generation):** Instead of hallucinating, the bot searches a local Knowledge Base and injects accurate context before answering — admin policies, fees, and admissions answered with 100% accuracy
-- **Decoupled Architecture:** Pure Flask REST API ↔ Static HTML/JS frontend with CORS — clean separation of concerns from day one
-- **SaaS-style Admin Portal:** Admins can manage the Knowledge Base, view student chat logs, and control which subjects the AI tutors
-- **High-Concurrency SQLite:** WAL mode + SQLAlchemy tuning to handle dozens of simultaneous sessions without locking
-- **Smart Query Router:** Automatically classifies questions as Administrative or Academic and routes them to different LLM prompts to save tokens and improve accuracy
+What I worked on:
 
-`Python` `Flask` `SQLite` `SQLAlchemy` `RAG` `HTML` `CSS` `JavaScript`
+- Flask REST API for chatbot communication
+- Admin dashboard for knowledge base, subject control, settings, and chat logs
+- SQLite models with SQLAlchemy
+- Query routing between institute-related questions and academic tutoring questions
+- Session-based recent chat context for follow-up questions
 
----
-
-### 🌐 [Aadi Shree Classes](https://aadishreeclasses.rf.gd/) — Live Coaching Website
-
-> A real, deployed coaching institute website. Not a tutorial project — a client has this running in production.
-
-Built the complete frontend from scratch: responsive layout, class schedule, contact info, and course details. Deployed on InfinityFree hosting.
-
-`HTML` `CSS` `JavaScript` · **[Live →](https://aadishreeclasses.rf.gd/)**
+`Python` `Flask` `SQLite` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Groq AI`
 
 ---
 
-## Hackathons
+### [Aadi Shree Classes](https://aadishreeclasses.rf.gd/)
 
-### 🏠 [Rent Affordability & Roommate Cost Splitter](https://github.com/navneetyadav-code/hackathon)
-*College-level Hackathon #1*
+Live coaching institute website built with HTML, CSS, and JavaScript.
 
-A web app that takes rent, utilities, and number of roommates, computes a fair per-person split, and **flags a warning if total rent exceeds a user-defined income percentage** — a genuinely useful financial tool for students and working people.
+What I worked on:
+
+- Responsive frontend structure
+- Course and institute information sections
+- Contact-focused layout
+- Deployment on InfinityFree hosting
+
+`HTML` `CSS` `JavaScript` `InfinityFree`
+
+---
+
+### [Thikana - Rent Affordability & Roommate Cost Splitter](https://github.com/navneetyadav-code/hackathon)
+
+College hackathon prototype for renters who want to compare rent, utilities, roommate sharing, and income percentage before choosing a room.
+
+What I worked on:
+
+- Rent split and affordability calculator
+- Renter dashboard prototype
+- Property discovery and host flow screens
+- Project documentation for setup, architecture, features, and roadmap
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🚜 [Rural Shipment Tracker](https://github.com/navneetyadav-code/hack2)
-*College-level Hackathon #2*
+### [FarmTrack - Rural Shipment Tracker](https://github.com/navneetyadav-code/hack2)
 
-Complete logistics flow for rural areas — farmer → distribution → delivery. Built to track shipments at each step of the supply chain, designed for areas with limited digital infrastructure.
+College hackathon project for rural supply-chain tracking between farmers, buyers, and transporters.
+
+What I worked on:
+
+- Farmer, buyer, and transporter flows
+- Product listing, checkout, order, and shipment APIs
+- QR-based shipment status updates
+- Database transaction handling in order and tracking flows
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+---
+
+## Other Work
+
+### [SecureAuth Admin](https://github.com/navneetyadav-code/secureauth-admin)
+
+PHP/MySQL admin authentication starter with sessions, CSRF protection, OTP support, login throttling, audit logs, and setup flow.
+
+### [Free QR Code Generator API](https://github.com/navneetyadav-code/free-qr-code-generator-api-php-mysql)
+
+Self-hosted PHP/MySQL QR code manager with static and dynamic QR codes, analytics, exports, protected links, and JSON API endpoints.
 
 ---
 
@@ -107,47 +133,32 @@ Complete logistics flow for rural areas — farmer → distribution → delivery
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=navneetyadav-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetyadav-code&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=navneetyadav-code&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=navneetyadav-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetyadav-code&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
 
 </div>
 
 ---
 
-## What I'm Working On
+## Current Learning
 
-Right now I'm focused on getting better at Python — not just syntax, but how to actually build with it. Flask, REST APIs, working with third-party APIs, and understanding how AI tools like LLM integrations and RAG pipelines fit into real web apps.
+Right now I am improving my Python fundamentals and learning how to build better Flask applications, APIs, database-backed tools, and AI-powered web apps.
 
-After EduAssist-AI, I want to build more projects that sit at the crossroads of web development and AI — specifically tools that solve real problems for students and small businesses in India.
+My goal is to keep building useful projects, document them clearly, and become stronger at writing clean, maintainable code.
 
 ---
 
-## Get In Touch
+## Connect
 
-I'm always up for a conversation about a project, a collaboration, or just talking code.
-
-| | |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/navneetyadavme](https://www.linkedin.com/in/navneetyadavme/) |
-| 🌐 Website | [navneetyadav.me](http://navneetyadav.me/) |
-| 📱 Phone | +91 9507286092 |
-| 💻 GitHub | [github.com/navneetyadav-code](https://github.com/navneetyadav-code) |
-
-<div align="center">
-
-*Open to internships, collaborations, and project ideas — especially anything that solves real problems.*
-
-</div>
+- LinkedIn: [linkedin.com/in/navneetyadavme](https://www.linkedin.com/in/navneetyadavme/)
+- Portfolio: [navneetyadav.me](http://navneetyadav.me/)
+- GitHub: [github.com/navneetyadav-code](https://github.com/navneetyadav-code)
 
 ---
 
 <div align="center">
-<sub>Built with actual projects, not just tutorials.</sub>
+
+**Build small. Learn deeply. Improve every release.**
+
 </div>
+
